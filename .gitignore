@@ -1,0 +1,27 @@
+# Python
+*.py[cod]
+
+# Distutils
+MANIFEST
+build/
+dist/
+
+# Gramps
+docs/_build/
+
+# Editing
+tags
+*.swp
+
+# Testing
+test/data
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# IDE
+.idea/
+
+# Glade temp files
+*~
